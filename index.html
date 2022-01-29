@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Code Quiz</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <script defer src="./assets/script/script.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div id="hud">
+        <div id="timer"></div>
+        <div id="right-answers"></div>
+        <div id="question-status" class="hide">
+          <div id="progressBar"></div>
+        </div>
+      </div>
+      <div id="question-container" class="hide">
+        <div id="recentScores" class="hide">High Scores:</div>
+        <ul id="recentScoresList" class="hide"></ul>
+        <div id="endMessage" class="hide"></div>
+        <div id="score" class="hide"></div>
+        <form id="scoreForm" class="hide">
+          Save your high score:
+          <input
+            type="text"
+            name="initials"
+            id="initials"
+            placeholder="initials"
+          /><br /><br />
+          <button type="submit" class="save-btn btn" id="scoreSave">
+            Save Score
+          </button>
+        </form>
+        <div id="question">Question</div>
+        <div id="answer-buttons" class="btn-grid">
+          <button class="btn">Answer 1</button>
+          <button class="btn">Answer 2</button>
+          <button class="btn">Answer 3</button>
+          <button class="btn">Answer 4</button>
+        </div>
+      </div>
+      <div class="controls">
+        <button id="start-btn" class="start-btn btn">Start</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+      
