@@ -13,5 +13,7 @@
 - THEN I can save my initials and score
 ## Description 
 - The Purpose of this appliaction is to use the sklills learned in the lesson to create a quiz and keep track of the scores. 
+ ![Home Page](https://raw.githubusercontent.com/CyresCooper/Test-Your-Knowledge/main/assets/images/HomePage.PNG)
+ ![Scores](https://github.com/CyresCooper/Test-Your-Knowledge/blob/main/assets/images/Score.PNG?raw=true)
  ## Link
  <a href="https://cyrescooper.github.io/Test-Your-Knowledge/" target="_blank">Quiz</a>
