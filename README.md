@@ -13,4 +13,5 @@
 - THEN I can save my initials and score
 ## Description 
 - The Purpose of this appliaction is to use the sklills learned in the lesson to create a quiz and keep track of the scores. 
-<a href="https://cyrescooper.github.io/Test-Your-Knowledge/" target="_blank">Password Generator</a>
+ ## Link
+ <a href="https://cyrescooper.github.io/Test-Your-Knowledge/" target="_blank">Quiz</a>
